@@ -2,6 +2,11 @@
 
 ## Setup
 
+### Kareema Kilani
+### CMPE HW2 Two
+
+I attempted to follow the notebooks mmcv, and mmdetection3d, Deep Learning Repo and tutorial for the starter code; however, I ran into a lot of issues when using new models or different datasets. Therefore, I took a simple approach to make sure I meet the requirements of the homework.
+
 ### Environment
 - **OS**: macOS
 - **Python**: 3.8+
