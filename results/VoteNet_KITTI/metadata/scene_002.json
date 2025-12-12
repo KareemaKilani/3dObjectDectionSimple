@@ -1,0 +1,24 @@
+{
+  "scene_id": "scene_002",
+  "model": "VoteNet",
+  "dataset": "KITTI",
+  "num_points": 5000,
+  "num_detections": 1,
+  "inference_time": 9.703636169433594e-05,
+  "detections": [
+    {
+      "bbox_center": [
+        0.00025958866501299416,
+        -1.7993033421737021,
+        2.444828838876991
+      ],
+      "bbox_size": [
+        1.261828810825994,
+        2.306882276652924,
+        2.24862915284805
+      ],
+      "confidence": 0.6705433942504067,
+      "class": "sofa"
+    }
+  ]
+}

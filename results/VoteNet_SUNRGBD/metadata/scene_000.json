@@ -1,0 +1,24 @@
+{
+  "scene_id": "scene_000",
+  "model": "VoteNet",
+  "dataset": "SUNRGBD",
+  "num_points": 3999,
+  "num_detections": 1,
+  "inference_time": 7.796287536621094e-05,
+  "detections": [
+    {
+      "bbox_center": [
+        -3.2769764727553183,
+        4.395881478534422,
+        0.884435437371061
+      ],
+      "bbox_size": [
+        2.3391043613903753,
+        1.8411105753409465,
+        1.9217792359821093
+      ],
+      "confidence": 0.558709016976369,
+      "class": "table"
+    }
+  ]
+}
